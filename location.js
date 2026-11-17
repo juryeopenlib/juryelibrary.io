@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         주례열린 서가위치 출력
 // @namespace    juryeopenlibrary
-// @version      2026-10-13-17:04
+// @version      2026-11-17-13:13
 // @description  도서관 서가위치&지도 표시
 // @author       Sung Jong-Min
 // @match        https://library.busan.go.kr/juryebooks/book/search/bookPrint
